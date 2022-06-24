@@ -2,6 +2,7 @@
 title: ES7+ Notes
 date: 2022-06-24 16:54:32
 tags: JavaScript
+categories: FrontEnd
 ---
 
 参考网址：
