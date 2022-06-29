@@ -4,6 +4,50 @@
   
   
   <entry>
+    <title>JavaScript Collect</title>
+    <link href="/2022/06/29/FrontEnd/Collect/JavaScript/"/>
+    <url>/2022/06/29/FrontEnd/Collect/JavaScript/</url>
+    
+    <content type="html"><![CDATA[<h2 id="性能"><a href="#性能" class="headerlink" title="性能"></a>性能</h2><ul><li><p><a href="https://mp.weixin.qq.com/s?__biz=Mzk0ODMxODIzNw==&mid=2247489110&idx=1&sn=cae17be447d66bbfb33ea49554d3b282&chksm=c3682f24f41fa6328a3361ad371dd8514fe1c50e57ccf026d07d92b0a226c808163a35fd5cba&scene=21#wechat_redirect">分时函数优化大数据量渲染</a></p></li><li><p><a href="https://mp.weixin.qq.com/s/3IFebvke9D1zBn-Ux-ECgA">如何设计一个缓存函数</a></p></li></ul><h2 id="window"><a href="#window" class="headerlink" title="window"></a>window</h2><ul><li><a href="https://mp.weixin.qq.com/s/ocFcBRjj8xzizF5ebFepdA">requestAnimationFrame 执行机制探索</a></li></ul>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>Collect</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>A11y Notes</title>
+    <link href="/2022/06/28/Technology/a11y%20Notes/"/>
+    <url>/2022/06/28/Technology/a11y%20Notes/</url>
+    
+    <content type="html"><![CDATA[<h3 id="Button"><a href="#Button" class="headerlink" title="Button"></a>Button</h3>]]></content>
+    
+    
+    <categories>
+      
+      <category>FrontEnd</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>a11y</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>Mac的使用</title>
     <link href="/2022/06/25/Efficiency/Mac%E7%9A%84%E4%BD%BF%E7%94%A8/"/>
     <url>/2022/06/25/Efficiency/Mac%E7%9A%84%E4%BD%BF%E7%94%A8/</url>
@@ -14,7 +58,7 @@
     
     <tags>
       
-      <tag>效率</tag>
+      <tag>Mac</tag>
       
     </tags>
     
