@@ -1,7 +1,7 @@
 ---
 title: Mac的使用
 date: 2022-06-25 11:17:10
-tags: 效率
+tags: Mac
 ---
 
 ## 认识一下 Option
