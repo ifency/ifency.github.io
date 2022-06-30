@@ -14,6 +14,12 @@ tags: Tools
 git commit -am "commit message"
 ```
 
+## 还原本地所有的
+
+```shell
+git restore .
+```
+
 ## 从另一个分支复制到本地分支
 
 ```shell
