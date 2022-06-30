@@ -33,7 +33,7 @@ categories: FrontEnd
 
   返回一个数组：参数对象自身的**（不含继承）所有可枚举属性的键值对数组**
 
-  ```javascript
+  ```JavaScript
   const obj = {
     name: "fency",
     age: 18,
