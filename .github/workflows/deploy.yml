@@ -30,9 +30,11 @@ jobs:
       - name: Hexo Deploy # 部署步骤，这里以 hexo deploy 为例
         env:
           SSH_PRIVATE: ${{ secrets.SSH_PRIVATE }}
+          GIT_NAME: ifency
+          GIT_EMAIL: 1096316446@qq.com
         run: |
           mkdir -p ~/.ssh/
-          echo "$SSH_PRIVATE" | tr -d '\r' > ~/.ssh/id_rsa
+          echo $SSH_PRIVATE | tr -d '\r' > ~/.ssh/id_rsa
           chmod 600 ~/.ssh/id_rsa
           ssh-keyscan github.com >> ~/.ssh/known_hosts
           git config --global user.name $GIT_NAME
