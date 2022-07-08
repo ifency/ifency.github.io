@@ -12,6 +12,11 @@ jobs:
         with:
           ref: master
 
+      - name: Setup Node # 安装 Node 环境
+        uses: actions/setup-node@v1
+        with:
+          node-version: "10.x"
+
       - name: Install dependencies
         run: |
           npm install
