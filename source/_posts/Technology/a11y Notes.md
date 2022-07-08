@@ -18,4 +18,22 @@ categories: FrontEnd
 
 > state 和 property 的差异之处就是：property 在应用的生命周期中不会改变，而 state 可以的。
 
+### Accordion(手风琴)
+
+#### 角色，属性，状态和 tabindex 属性
+
+- `aria-expanded="true"`
+  展开折叠的属性，`true`代表展开，`false`代表折叠
+
+- `aira-controls="ID"`
+
+- `aria-labelledby='IDREF'`
+  - 定义区域的名字
+
+#### 键盘交互
+
+- `Enter` or `Space`：折叠展开面板
+
+-
+
 ### Button
