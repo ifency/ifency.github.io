@@ -325,3 +325,20 @@ categories: FrontEnd
 - 数字分隔符`_`
 
 - `Promise.any`
+
+## ES13
+
+- class
+
+  - 之前如果需要私有变量，比如说`_name`，加上`_`标志为私有变量，不让外部可访问到，但事实上却可以访问到，看下面的 🌰：
+
+  ```JavaScript
+  class User{
+    constructor(){
+      this._name = "nancy"
+    }
+  }
+
+  const user = new User()
+  user._name; //
+  ```
