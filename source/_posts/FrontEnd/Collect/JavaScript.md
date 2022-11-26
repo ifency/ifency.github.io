@@ -10,6 +10,10 @@ tags: Collect
 
 - [如何设计一个缓存函数](https://mp.weixin.qq.com/s/3IFebvke9D1zBn-Ux-ECgA)
 
+## 网络
+
+- [API 请求慢？这次锅真不在后端](https://mp.weixin.qq.com/s/BlzZnJI4wItMtEpX5ogGvw)
+
 ## window
 
 - [requestAnimationFrame 执行机制探索](https://mp.weixin.qq.com/s/ocFcBRjj8xzizF5ebFepdA)
