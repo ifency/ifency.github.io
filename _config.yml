@@ -104,4 +104,4 @@ theme: maupassant
 deploy:
   type: git
   repo: git@github.com:ifency/ifency.github.io.git
-  branch: master
+  branch: gh-pages
